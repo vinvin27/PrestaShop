@@ -24,6 +24,15 @@ If you don't find any solution to launch installer, please post on [our forum][3
 
 There are always solutions for your issues ;-)
 
+Ne confondez pas les termes de Prestashop :
+
+presta shop ou prestachop, prestahop voir même prestshop et presashop
+
+Voici une page qui récapitule la bonne orthographe du mot Prestashop :
+
+[https://migration.boutique/2017/09/15/presta-shopprestachop-prestahop-prestshop-presashop-boutique-ecommerce/][6]
+
+
 DOCUMENTATION
 --------
 
@@ -43,3 +52,4 @@ Thanks for downloading and using PrestaShop e-commerce Open-source solution!
 [3]: http://www.prestashop.com/forums/forum/7-installing-prestashop/
 [4]: http://doc.prestashop.com
 [5]: http://www.prestashop.com/forums/
+[6]: https://migration.boutique/2017/09/15/presta-shopprestachop-prestahop-prestshop-presashop-boutique-ecommerce/
