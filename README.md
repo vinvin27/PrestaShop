@@ -5,11 +5,8 @@ README
 PREPARATION
 --------
 
-To install PrestaShop, you need a remote web server or on your computer (MAMP), with access to a database like MySQL.
-You'll need access to phpMyAdmin to create a database and to indicate the information in the database in the installer.
-
-If you do not host and unable to create your store, we offer a turnkey store, which lets you create your online store in less than 10 minutes without any technical knowledge.
-We invite you to visit: [http://www.prestabox.com][1]
+Pour l'installation, la migration ou le développement de votre boutique e-commerce Prestashop. Vous pouvez faire appel à un développeur Freelance spécialisé Prestashop :
+Migration de votre boutique Prestashop : [https://migration.boutique][1]
 
 INSTALLATION
 --------
@@ -41,7 +38,7 @@ You can also discuss, help and contribute with PrestaShop community on [our foru
 
 Thanks for downloading and using PrestaShop e-commerce Open-source solution!
 
-[1]: http://www.prestabox.com
+[1]: https://migration.boutique
 [2]: http://www.prestashop.com/forums/topic/2946-pre-installation-settings-php-5-htaccess-for-certain-hosting-services/
 [3]: http://www.prestashop.com/forums/forum/7-installing-prestashop/
 [4]: http://doc.prestashop.com
